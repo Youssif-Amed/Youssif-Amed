@@ -10,6 +10,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20EECE%20Student%20at%20CUFE;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Branding%20Vice%20President%20at%20TCCD;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Competition%20Team%20Member%20at%20NASA%20SPACE%20APPS;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
 - 🎓 I'm an Electronics and Electrical Communications student at Cairo University
 
@@ -17,6 +23,5 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/youssif-ahmed-72b883248" target="_blank"><img src="https://img.shields.io/badge/-Youssif%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/youssif.ahmed.351104" target="_blank"><img src="https://img.shields.io/badge/-Youssif%20Ahmed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 <br>
